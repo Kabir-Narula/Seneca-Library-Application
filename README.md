@@ -53,6 +53,6 @@ The **Seneca Library Application** is designed to handle various tasks within a 
 
 ## Contributors
 
-This project was developed by [Your Name] as part of the final project for the [Course Name] course at Seneca College.
+This project was developed by Kabir Narulaas part of the final project for the [Course Name] course at Seneca College.
 
 Feel free to customize and expand the README to better suit your project needs!
