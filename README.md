@@ -51,8 +51,5 @@ The **Seneca Library Application** is designed to handle various tasks within a 
 - **File I/O:**
   Support reading publications from files and saving changes back to files.
 
-## Contributors
-
-This project was developed by Kabir Narulaa part of the final project for the BTP200 course at Seneca College.
 
 
